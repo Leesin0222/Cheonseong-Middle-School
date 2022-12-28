@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">cheonseong</string>
+    <string name="app_name">천성건아</string>
+    <string name="today_meal">오늘의 급식</string>
 </resources>

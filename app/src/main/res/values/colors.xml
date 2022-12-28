@@ -10,4 +10,5 @@
     <color name="main_color">#FFFF7272</color>
     <color name="secondary_main_color">#FFFFB4B4</color>
     <color name="black_secondary">#FF555555</color>
+    <color name="base_line_color">#FFDDDDDD</color>
 </resources>
